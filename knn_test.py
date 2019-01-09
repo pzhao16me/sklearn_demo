@@ -3,6 +3,10 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 from sklearn import neighbors, datasets
 
+
+
+##  work on github
+
 n_neighbors = 3
 
 # import some data to play with
