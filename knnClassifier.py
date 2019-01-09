@@ -1,9 +1,9 @@
 from scipy.spatial import distance
 
 
+def euc(a, b):
+    return distance(a, b)
 
-def euc(a,b):
-    return distance(a,b)
 
 class knnClassifier():
     def fit(self, x_train, y_train):
@@ -27,19 +27,23 @@ class knnClassifier():
                 best_index = i
         return self.y_train[best_index]
 
+
 from sklearn import datasets
+
 iris = datasets.load_iris()
 x = iris.data
 y = iris.target
 
 from sklearn.model_selection import train_test_split
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size= .5)
-print(x_train) 
-print(y_train) 
+
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=.5)
+print(x_train)
+print(y_train)
 
 my_classifier = knnClassifier()
 my_classifier.fit(x_train, y_train)
 predictions = my_classifier.predict(x_test)
 
 from sklearn.metrics import accuracy_score
-print("score:",accuracy_score(y_test, predictions)) 
+
+print("score:", accuracy_score(y_test, predictions))
