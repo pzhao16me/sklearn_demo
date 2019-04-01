@@ -7,4 +7,4 @@
 # fuck
 
 # add news to dev branch
-
+#creating a  new branch  is quick and simple
