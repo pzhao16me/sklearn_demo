@@ -81,5 +81,5 @@ def main():
       "New Samples, Class Predictions:    {}\n"
       .format(predicted_classes))
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
