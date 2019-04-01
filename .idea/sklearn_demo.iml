@@ -5,7 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/tree_model" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/cnn_model" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (python_code)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

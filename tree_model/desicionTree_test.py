@@ -2,7 +2,8 @@ from sklearn import tree
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
 
-if __name__ == '__main__':
+
+def main():
 	# 加载iris数据集
 	iris = datasets.load_iris()
 
@@ -26,3 +27,7 @@ if __name__ == '__main__':
 			cnt += 1
 	# print(ans[i], ' ', y_test[i])
 	print("Accuracy: ", (cnt * 100.0 / len(y_test)), "%")
+
+
+if __name__ == '__main__':
+	main()
