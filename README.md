@@ -5,3 +5,6 @@
 
 # git tracks changes in files
 # fuck
+
+# add news to dev branch
+
