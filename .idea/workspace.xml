@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="297622af-d19c-4027-aeba-b67575c6cc19" name="Default Changelist" comment="" />
+    <list default="true" id="297622af-d19c-4027-aeba-b67575c6cc19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +37,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <first_editor>
+                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -46,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cnn_model/keras_t1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="960">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -61,7 +63,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="modify_read_me" />
       </map>
     </option>
     <option name="PUSH_TAGS">
@@ -112,9 +114,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="87" />
-    <option name="y" value="43" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2023" />
+    <option name="y" value="24" />
     <option name="width" value="1279" />
     <option name="height" value="701" />
   </component>
@@ -130,11 +132,6 @@
             <path>
               <item name="ml_project2" type="b2602c69:ProjectViewProjectNode" />
               <item name="ml_project2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ml_project2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml_project2" type="462c0819:PsiDirectoryNode" />
-              <item name="tree_model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -337,7 +334,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4980048" weight="0.32545453" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32909092" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.94545454" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5019952" side_tool="true" weight="0.32545453" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32909092" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -509,8 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cnn_model/keras_t1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="960">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -520,8 +517,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <first_editor>
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
